@@ -8,7 +8,7 @@ paths:
   interim_data: data/interim
   output_data: data/output
 
-  bmd: data/Raw/BMD_Data
+  BMD: data/Raw/BMD_Data
   ccs: data/Raw/CCS
   cdr: data/Raw/CDR
   chirps: data/Raw/CHIRPS_TIFF_2017_2022
