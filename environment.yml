@@ -1,1 +1,30 @@
+project:
+  name: Precipitation_Downscaling_Khulna
+  study_area: Khulna
 
+paths:
+  raw_data: data/Raw
+  processed_data: data/processed
+  interim_data: data/interim
+  output_data: data/output
+
+  bmd: data/Raw/BMD_Data
+  ccs: data/Raw/CCS
+  cdr: data/Raw/CDR
+  chirps: data/Raw/CHIRPS_TIFF_2017_2022
+  distance_sea: data/Raw/Distance from Sea
+  era5: data/Raw/ERA5_TIFF
+  gsmap: data/Raw/GSMaP_Gauge_v7
+  gsmap_mvk: data/Raw/GSMaP_MVK
+  imerg: data/Raw/IMERG_Monthly
+  boundary: data/Raw/Khulna
+  land_variable: data/Raw/Land variable
+  lst: data/Raw/LST_Day_2017_2022
+  ndvi: data/Raw/NDVI_Monthly_2017_2022
+  pdir: data/Raw/PDIR
+  persiann: data/Raw/PERSIANN
+
+results:
+  figures: figures
+  tables: results/tables
+  maps: results/maps
