@@ -27,4 +27,4 @@ paths:
 results:
   figures: figures
   tables: results/tables
-  maps: results/maps
+  maps: data/MAPS
