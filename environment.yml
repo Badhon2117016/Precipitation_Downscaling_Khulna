@@ -12,13 +12,13 @@ paths:
   ccs: data/Raw/CCS
   cdr: data/Raw/CDR
   chirps: data/Raw/CHIRPS_TIFF_2017_2022
-  distance_sea: data/Raw/Distance from Sea
+  distance_sea: data/Raw/Distance_from_Sea
   era5: data/Raw/ERA5_TIFF
   gsmap: data/Raw/GSMaP_Gauge_v7
   gsmap_mvk: data/Raw/GSMaP_MVK
   imerg: data/Raw/IMERG_Monthly
   boundary: data/Raw/Khulna
-  land_variable: data/Raw/Land variable
+  land_variable: data/Raw/Land_Variable
   lst: data/Raw/LST_Day_2017_2022
   ndvi: data/Raw/NDVI_Monthly_2017_2022
   pdir: data/Raw/PDIR
