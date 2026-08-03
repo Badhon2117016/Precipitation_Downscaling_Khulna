@@ -1,0 +1,12 @@
+Dataset,Expected_Files,Successful_Files,Failed_Files,Empty_Output_Files,Complete
+CCS,72,72,0,0,True
+CDR,72,72,0,0,True
+CHIRPS,72,72,0,0,True
+ERA5,72,72,0,0,True
+GSMaP_Gauge,72,72,0,0,True
+GSMaP_MVK,72,72,0,0,True
+IMERG,72,72,0,0,True
+LST,72,72,0,0,True
+NDVI,72,72,0,0,True
+PDIR,72,72,0,0,True
+PERSIANN,72,72,0,0,True
