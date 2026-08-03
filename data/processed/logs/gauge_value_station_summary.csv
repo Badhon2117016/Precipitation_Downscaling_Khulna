@@ -1,0 +1,7 @@
+station_id,station_name,records,valid_rainfall,mean_rainfall_mm,min_rainfall_mm,max_rainfall_mm,complete_predictor_rows,mean_valid_predictors,predictor_completeness_percent
+CL503,Chalna,72,72,209.7888888888889,0.0,783.0,0,0.0,0.0
+CL504,Dumuria,72,72,131.88333333333333,0.0,704.3,0,0.0,0.0
+CL509,Kapilmuni,72,72,149.97361111111113,0.0,606.0,0,0.0,0.0
+CL510,Khulna,72,72,159.33333333333334,0.0,720.0,0,0.0,0.0
+CL515,Paikgacha,72,72,161.23472222222222,0.0,687.0,0,0.0,0.0
+CL517,Rupsa,72,72,140.09027777777777,0.0,587.5,0,0.0,0.0

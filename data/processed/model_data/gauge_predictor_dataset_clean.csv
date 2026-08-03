@@ -1,0 +1,1 @@
+station_id,station_name,latitude,longitude,year,month,date,month_id,season,month_sin,month_cos,rainfall_mm,CCS,CDR,CHIRPS,ERA5,GSMaP_Gauge,GSMaP_MVK,IMERG,LST,NDVI,PDIR,PERSIANN,Distance_Sea_meter,Land_Aspect_Degree_30m,Land_Khulna_SRTM_DEM,Land_Slope_Degree_30m,raster_x,raster_y,inside_raster_bounds,valid_predictor_count,missing_predictor_count,all_predictors_available
