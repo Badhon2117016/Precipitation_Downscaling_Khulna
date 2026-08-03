@@ -4,9 +4,10 @@ Successful months,72
 Failed months,0
 Gauge input rows,432
 Extracted rows,432
-Clean model rows,0
+Clean model rows,432
 Unique stations,6
 Predictor bands,15
-Complete predictor rows,0
-Rows with missing predictor,432
-Rows outside raster bounds,432
+Complete predictor rows,248
+Rows with missing predictor,184
+Rows outside raster bounds,0
+GeoPackage CRS assigned,True
