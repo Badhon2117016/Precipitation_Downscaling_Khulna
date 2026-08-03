@@ -1,0 +1,12 @@
+Dataset,Folder,Raster_Files_Indexed,Skipped_Files,Duplicate_Months,Status
+CCS,E:\Geospatial\Precipitation Downscaling\Precipitation-Downscaling-Khulna\data\processed\rasters_aligned\monthly\CCS,72,0,0,Found
+CDR,E:\Geospatial\Precipitation Downscaling\Precipitation-Downscaling-Khulna\data\processed\rasters_aligned\monthly\CDR,72,0,0,Found
+CHIRPS,E:\Geospatial\Precipitation Downscaling\Precipitation-Downscaling-Khulna\data\processed\rasters_aligned\monthly\CHIRPS,72,0,0,Found
+ERA5,E:\Geospatial\Precipitation Downscaling\Precipitation-Downscaling-Khulna\data\processed\rasters_aligned\monthly\ERA5,72,0,0,Found
+GSMaP_Gauge,E:\Geospatial\Precipitation Downscaling\Precipitation-Downscaling-Khulna\data\processed\rasters_aligned\monthly\GSMaP_Gauge,72,0,0,Found
+GSMaP_MVK,E:\Geospatial\Precipitation Downscaling\Precipitation-Downscaling-Khulna\data\processed\rasters_aligned\monthly\GSMaP_MVK,72,0,0,Found
+IMERG,E:\Geospatial\Precipitation Downscaling\Precipitation-Downscaling-Khulna\data\processed\rasters_aligned\monthly\IMERG,72,0,0,Found
+LST,E:\Geospatial\Precipitation Downscaling\Precipitation-Downscaling-Khulna\data\processed\rasters_aligned\monthly\LST,72,0,0,Found
+NDVI,E:\Geospatial\Precipitation Downscaling\Precipitation-Downscaling-Khulna\data\processed\rasters_aligned\monthly\NDVI,72,0,0,Found
+PDIR,E:\Geospatial\Precipitation Downscaling\Precipitation-Downscaling-Khulna\data\processed\rasters_aligned\monthly\PDIR,72,0,0,Found
+PERSIANN,E:\Geospatial\Precipitation Downscaling\Precipitation-Downscaling-Khulna\data\processed\rasters_aligned\monthly\PERSIANN,72,0,0,Found
