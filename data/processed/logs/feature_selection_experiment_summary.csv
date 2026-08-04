@@ -1,5 +1,6 @@
-Experiment,Rows,Feature_Count,Missing_Feature_Values
-A_complete_case,248,19,0
-B_hierarchical_imputation,432,19,0
-C_reduced_features,372,15,0
-D_without_GSMaP_Gauge,432,18,0
+Experiment,Rows,Train_Rows,Validation_Rows,Test_Rows,Feature_Count,Missing_Feature_Values,Complete_Feature_Rows,Notes
+A_complete_case,248,169,40,39,19,0,248,Rows with any missing candidate feature are removed.
+B_hierarchical_imputation,432,288,72,72,19,0,432,"Training-only station-month, calendar-month and global-median imputation."
+C_reduced_features,372,254,60,58,15,0,372,"CCS, CDR, PDIR and PERSIANN excluded because of high missingness."
+D_without_GSMaP_Gauge,432,288,72,72,18,0,432,Sensitivity experiment without gauge-adjusted GSMaP_Gauge predictor.
+E_correlation_reduced,432,288,72,72,12,0,432,Imputed dataset with highly correlated predictors reduced.

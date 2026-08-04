@@ -20,7 +20,49 @@
     "latitude",
     "longitude"
   ],
-  "reduced_features": [
+  "experiment_A_complete_case": [
+    "CCS",
+    "CDR",
+    "CHIRPS",
+    "ERA5",
+    "GSMaP_Gauge",
+    "GSMaP_MVK",
+    "IMERG",
+    "LST",
+    "NDVI",
+    "PDIR",
+    "PERSIANN",
+    "Distance_Sea_meter",
+    "Land_Aspect_Degree_30m",
+    "Land_Khulna_SRTM_DEM",
+    "Land_Slope_Degree_30m",
+    "month_sin",
+    "month_cos",
+    "latitude",
+    "longitude"
+  ],
+  "experiment_B_hierarchical_imputation": [
+    "CCS",
+    "CDR",
+    "CHIRPS",
+    "ERA5",
+    "GSMaP_Gauge",
+    "GSMaP_MVK",
+    "IMERG",
+    "LST",
+    "NDVI",
+    "PDIR",
+    "PERSIANN",
+    "Distance_Sea_meter",
+    "Land_Aspect_Degree_30m",
+    "Land_Khulna_SRTM_DEM",
+    "Land_Slope_Degree_30m",
+    "month_sin",
+    "month_cos",
+    "latitude",
+    "longitude"
+  ],
+  "experiment_C_reduced_features": [
     "CHIRPS",
     "ERA5",
     "GSMaP_Gauge",
@@ -37,7 +79,7 @@
     "latitude",
     "longitude"
   ],
-  "without_gsmap_gauge_features": [
+  "experiment_D_without_GSMaP_Gauge": [
     "CCS",
     "CDR",
     "CHIRPS",
@@ -57,5 +99,26 @@
     "latitude",
     "longitude"
   ],
-  "constant_features_removed": []
+  "experiment_E_correlation_reduced": [
+    "GSMaP_MVK",
+    "IMERG",
+    "LST",
+    "NDVI",
+    "PDIR",
+    "Distance_Sea_meter",
+    "Land_Aspect_Degree_30m",
+    "Land_Khulna_SRTM_DEM",
+    "Land_Slope_Degree_30m",
+    "month_sin",
+    "month_cos",
+    "longitude"
+  ],
+  "constant_features_removed": [],
+  "near_constant_features": [],
+  "manual_reduced_feature_exclusions": [
+    "CCS",
+    "CDR",
+    "PDIR",
+    "PERSIANN"
+  ]
 }
