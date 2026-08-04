@@ -1,0 +1,16 @@
+Metric,Value
+Input rows,432
+Input columns,33
+Unique stations,6
+Start year,2017
+End year,2022
+Available predictors,15
+Duplicate station-month rows,0
+Missing target rows,0
+Negative target rows,0
+EDA-ready rows,432
+Extreme-outlier-filtered rows,432
+Target IQR outliers,12
+Target extreme outliers,0
+High-correlation pairs,24
+High-VIF features,14
