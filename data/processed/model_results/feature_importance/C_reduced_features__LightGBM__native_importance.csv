@@ -1,0 +1,16 @@
+Feature,Importance,Importance_Type,Experiment,Model
+CHIRPS,488.0,Native_Feature_Importance,C_reduced_features,LightGBM
+LST,423.0,Native_Feature_Importance,C_reduced_features,LightGBM
+IMERG,354.0,Native_Feature_Importance,C_reduced_features,LightGBM
+GSMaP_MVK,338.0,Native_Feature_Importance,C_reduced_features,LightGBM
+GSMaP_Gauge,321.0,Native_Feature_Importance,C_reduced_features,LightGBM
+ERA5,275.0,Native_Feature_Importance,C_reduced_features,LightGBM
+NDVI,254.0,Native_Feature_Importance,C_reduced_features,LightGBM
+month_cos,146.0,Native_Feature_Importance,C_reduced_features,LightGBM
+Distance_Sea_meter,143.0,Native_Feature_Importance,C_reduced_features,LightGBM
+month_sin,120.0,Native_Feature_Importance,C_reduced_features,LightGBM
+longitude,61.0,Native_Feature_Importance,C_reduced_features,LightGBM
+Land_Aspect_Degree_30m,58.0,Native_Feature_Importance,C_reduced_features,LightGBM
+Land_Khulna_SRTM_DEM,53.0,Native_Feature_Importance,C_reduced_features,LightGBM
+Land_Slope_Degree_30m,10.0,Native_Feature_Importance,C_reduced_features,LightGBM
+latitude,5.0,Native_Feature_Importance,C_reduced_features,LightGBM

@@ -1,0 +1,13 @@
+Feature,Importance,Importance_Type,Experiment,Model
+IMERG,1341.0,Native_Feature_Importance,E_correlation_reduced,LightGBM
+LST,1143.0,Native_Feature_Importance,E_correlation_reduced,LightGBM
+NDVI,1099.0,Native_Feature_Importance,E_correlation_reduced,LightGBM
+PDIR,1052.0,Native_Feature_Importance,E_correlation_reduced,LightGBM
+GSMaP_MVK,918.0,Native_Feature_Importance,E_correlation_reduced,LightGBM
+Distance_Sea_meter,379.0,Native_Feature_Importance,E_correlation_reduced,LightGBM
+month_cos,326.0,Native_Feature_Importance,E_correlation_reduced,LightGBM
+month_sin,310.0,Native_Feature_Importance,E_correlation_reduced,LightGBM
+Land_Khulna_SRTM_DEM,167.0,Native_Feature_Importance,E_correlation_reduced,LightGBM
+longitude,88.0,Native_Feature_Importance,E_correlation_reduced,LightGBM
+Land_Aspect_Degree_30m,86.0,Native_Feature_Importance,E_correlation_reduced,LightGBM
+Land_Slope_Degree_30m,62.0,Native_Feature_Importance,E_correlation_reduced,LightGBM

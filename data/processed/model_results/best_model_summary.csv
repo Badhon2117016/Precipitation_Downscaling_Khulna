@@ -1,0 +1,2 @@
+Best_Experiment,Best_Model,Test_RMSE,Test_MAE,Test_R2,Test_Bias,Test_Percent_Bias,Test_Pearson_R,Test_NSE,Test_KGE,Saved_Model
+C_reduced_features,Random_Forest,61.473878802110136,38.51411085920646,0.6377144929751001,-11.079650360304258,-9.939826466684924,0.8115047702607445,0.6377144929751001,0.767362067115935,E:\Geospatial\Precipitation Downscaling\Precipitation-Downscaling-Khulna\data\processed\model_results\models\C_reduced_features__Random_Forest.joblib

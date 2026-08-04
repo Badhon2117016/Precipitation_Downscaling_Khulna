@@ -1,0 +1,5 @@
+Experiment,File,Status,Rows,Feature_Count,Train_Rows,Validation_Rows,Test_Rows
+B_full_imputed,E:\Geospatial\Precipitation Downscaling\Precipitation-Downscaling-Khulna\data\processed\model_data\feature_selection\experiment_B_hierarchical_imputation.csv,Loaded,432,19,288,72,72
+C_reduced_features,E:\Geospatial\Precipitation Downscaling\Precipitation-Downscaling-Khulna\data\processed\model_data\feature_selection\experiment_C_reduced_features.csv,Loaded,372,15,254,60,58
+D_without_GSMaP_Gauge,E:\Geospatial\Precipitation Downscaling\Precipitation-Downscaling-Khulna\data\processed\model_data\feature_selection\experiment_D_without_GSMaP_Gauge.csv,Loaded,432,18,288,72,72
+E_correlation_reduced,E:\Geospatial\Precipitation Downscaling\Precipitation-Downscaling-Khulna\data\processed\model_data\feature_selection\experiment_E_correlation_reduced.csv,Loaded,432,12,288,72,72
