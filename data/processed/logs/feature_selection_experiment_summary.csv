@@ -1,0 +1,5 @@
+Experiment,Rows,Feature_Count,Missing_Feature_Values
+A_complete_case,248,19,0
+B_hierarchical_imputation,432,19,0
+C_reduced_features,372,15,0
+D_without_GSMaP_Gauge,432,18,0

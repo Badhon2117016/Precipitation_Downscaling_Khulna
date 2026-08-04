@@ -1,0 +1,4 @@
+split,rows,stations,start_year,end_year
+test,72,6,2022,2022
+train,288,6,2017,2020
+validation,72,6,2021,2021

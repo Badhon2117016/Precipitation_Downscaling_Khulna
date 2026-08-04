@@ -1,0 +1,7 @@
+station_id,station_name,CCS,CDR,CHIRPS,ERA5,GSMaP_Gauge,GSMaP_MVK,IMERG,LST,NDVI,PDIR,PERSIANN,Distance_Sea_meter,Land_Aspect_Degree_30m,Land_Khulna_SRTM_DEM,Land_Slope_Degree_30m
+CL503,Chalna,0,72,0,0,0,6,0,11,0,0,72,0,0,0,0
+CL504,Dumuria,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0
+CL509,Kapilmuni,72,0,0,0,0,6,0,2,0,72,0,0,0,0,0
+CL510,Khulna,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0
+CL515,Paikgacha,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0
+CL517,Rupsa,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0

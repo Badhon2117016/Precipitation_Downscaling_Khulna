@@ -1,0 +1,4 @@
+split,CCS,CDR,CHIRPS,ERA5,GSMaP_Gauge,GSMaP_MVK,IMERG,LST,NDVI,PDIR,PERSIANN,Distance_Sea_meter,Land_Aspect_Degree_30m,Land_Khulna_SRTM_DEM,Land_Slope_Degree_30m
+test,12,12,0,0,0,3,0,11,0,12,12,0,0,0,0
+train,48,48,0,0,0,12,0,26,0,48,48,0,0,0,0
+validation,12,12,0,0,0,3,0,10,0,12,12,0,0,0,0
